@@ -1,0 +1,111 @@
+#: locale=es
+
+## Media
+
+### Título
+panorama_4E641E57_4375_DA02_41A6_9CE796E5314B.label = Dormitorio_Oscuro
+panorama_7CAC14DF_4495_CE03_41C4_C1FA28F387E3.label = Monoambiente_Claro_0000
+panorama_7D0249A6_4495_4602_41BF_182010B39BE6.label = Monoambiente_Claro_0001
+panorama_7CC52E6D_4494_DA06_41C4_1BB51C21EA18.label = Monoambiente_Claro_0002
+panorama_7DEBE793_449B_4A03_41BC_53F459916901.label = Monoambiente_Claro_0003
+panorama_4FB02740_4375_4A7D_41BD_ADEF4AAD1674.label = Monoambiente_Oscuro_0002
+panorama_4F91E17F_4375_4602_419B_C30FDDA72E7C.label = Monoambiente_Oscuro_0003
+panorama_4E68B2D4_4375_CA05_41BD_6FEDD87D0D5B.label = Principal
+
+## Skin
+
+### Imágen
+Image_25312DA8_3B7A_7994_41CB_48365FAF4E10.url = skin/Image_25312DA8_3B7A_7994_41CB_48365FAF4E10_es.png
+Image_25312DA8_3B7A_7994_41CB_48365FAF4E10_mobile.url = skin/Image_25312DA8_3B7A_7994_41CB_48365FAF4E10_mobile_es.png
+Image_513C88FF_439B_C602_4192_31B8473405E7.url = skin/Image_513C88FF_439B_C602_4192_31B8473405E7_es.png
+Image_513C88FF_439B_C602_4192_31B8473405E7_mobile.url = skin/Image_513C88FF_439B_C602_4192_31B8473405E7_mobile_es.png
+Image_5227232A_42C7_ECA8_41C2_DB22B797E4DB.url = skin/Image_5227232A_42C7_ECA8_41C2_DB22B797E4DB_es.gif
+Image_5227232A_42C7_ECA8_41C2_DB22B797E4DB_mobile.url = skin/Image_5227232A_42C7_ECA8_41C2_DB22B797E4DB_mobile_es.gif
+Image_52E71656_4D9E_1788_4179_49FF68D1A165_mobile.url = skin/Image_52E71656_4D9E_1788_4179_49FF68D1A165_mobile_es.png
+Image_5AD67B71_4679_896F_41CF_E851E1FB9CBB.url = skin/Image_5AD67B71_4679_896F_41CF_E851E1FB9CBB_es.png
+Image_5AD67B71_4679_896F_41CF_E851E1FB9CBB_mobile.url = skin/Image_5AD67B71_4679_896F_41CF_E851E1FB9CBB_mobile_es.png
+Image_5BBC5C65_43B5_5E07_41A6_1345CF1655E3.url = skin/Image_5BBC5C65_43B5_5E07_41A6_1345CF1655E3_es.png
+Image_5BBC5C65_43B5_5E07_41A6_1345CF1655E3_mobile.url = skin/Image_5BBC5C65_43B5_5E07_41A6_1345CF1655E3_mobile_es.png
+Image_5D0C898D_4598_89B6_41C9_74A95CAA8AF4.url = skin/Image_5D0C898D_4598_89B6_41C9_74A95CAA8AF4_es.png
+Image_5D0C898D_4598_89B6_41C9_74A95CAA8AF4_mobile.url = skin/Image_5D0C898D_4598_89B6_41C9_74A95CAA8AF4_mobile_es.png
+Image_5D37FF03_4598_8AB2_4188_B1BFA6F955D2.url = skin/Image_5D37FF03_4598_8AB2_4188_B1BFA6F955D2_es.png
+Image_5D37FF03_4598_8AB2_4188_B1BFA6F955D2_mobile.url = skin/Image_5D37FF03_4598_8AB2_4188_B1BFA6F955D2_mobile_es.png
+Image_5D5639F6_4599_8955_41C1_2F4E10E4D429.url = skin/Image_5D5639F6_4599_8955_41C1_2F4E10E4D429_es.png
+Image_5D5639F6_4599_8955_41C1_2F4E10E4D429_mobile.url = skin/Image_5D5639F6_4599_8955_41C1_2F4E10E4D429_mobile_es.png
+Image_5D6C491E_459B_96D5_41C2_10E6F540F38B.url = skin/Image_5D6C491E_459B_96D5_41C2_10E6F540F38B_es.png
+Image_5D6C491E_459B_96D5_41C2_10E6F540F38B_mobile.url = skin/Image_5D6C491E_459B_96D5_41C2_10E6F540F38B_mobile_es.png
+Image_5D83415E_4599_9955_41C4_1F52E52B5BBD.url = skin/Image_5D83415E_4599_9955_41C4_1F52E52B5BBD_es.png
+Image_5D83415E_4599_9955_41C4_1F52E52B5BBD_mobile.url = skin/Image_5D83415E_4599_9955_41C4_1F52E52B5BBD_mobile_es.png
+Image_5D8367EE_459F_9975_41BF_3B0AA9366F35.url = skin/Image_5D8367EE_459F_9975_41BF_3B0AA9366F35_es.png
+Image_5D8367EE_459F_9975_41BF_3B0AA9366F35_mobile.url = skin/Image_5D8367EE_459F_9975_41BF_3B0AA9366F35_mobile_es.png
+Image_5D8AA6B5_4598_FBD6_41B1_4DE0E4DF78D8.url = skin/Image_5D8AA6B5_4598_FBD6_41B1_4DE0E4DF78D8_es.png
+Image_5D8AA6B5_4598_FBD6_41B1_4DE0E4DF78D8_mobile.url = skin/Image_5D8AA6B5_4598_FBD6_41B1_4DE0E4DF78D8_mobile_es.png
+Image_5D8AFE2E_4598_8AF2_41A8_8FE9AF9CB039.url = skin/Image_5D8AFE2E_4598_8AF2_41A8_8FE9AF9CB039_es.png
+Image_5D8AFE2E_4598_8AF2_41A8_8FE9AF9CB039_mobile.url = skin/Image_5D8AFE2E_4598_8AF2_41A8_8FE9AF9CB039_mobile_es.png
+Image_5D8B2356_4598_9955_41B1_498674C2A247.url = skin/Image_5D8B2356_4598_9955_41B1_498674C2A247_es.png
+Image_5D8B2356_4598_9955_41B1_498674C2A247_mobile.url = skin/Image_5D8B2356_4598_9955_41B1_498674C2A247_mobile_es.png
+Image_5D8E8E1E_4598_8AD5_41D0_181780F4406D.url = skin/Image_5D8E8E1E_4598_8AD5_41D0_181780F4406D_es.png
+Image_5D8E8E1E_4598_8AD5_41D0_181780F4406D_mobile.url = skin/Image_5D8E8E1E_4598_8AD5_41D0_181780F4406D_mobile_es.png
+Image_5D91344D_4598_9EB6_41CB_99338B0C344D.url = skin/Image_5D91344D_4598_9EB6_41CB_99338B0C344D_es.png
+Image_5D91344D_4598_9EB6_41CB_99338B0C344D_mobile.url = skin/Image_5D91344D_4598_9EB6_41CB_99338B0C344D_mobile_es.png
+Image_5D937095_459F_97D6_41C4_FE4F7B01CA5F.url = skin/Image_5D937095_459F_97D6_41C4_FE4F7B01CA5F_es.png
+Image_5D937095_459F_97D6_41C4_FE4F7B01CA5F_mobile.url = skin/Image_5D937095_459F_97D6_41C4_FE4F7B01CA5F_mobile_es.png
+Image_5D977BDE_4599_8955_4199_9BE930C0068B.url = skin/Image_5D977BDE_4599_8955_4199_9BE930C0068B_es.png
+Image_5D977BDE_4599_8955_4199_9BE930C0068B_mobile.url = skin/Image_5D977BDE_4599_8955_4199_9BE930C0068B_mobile_es.png
+Image_5D9AA77E_459F_9955_41C9_B3A8C2E88C28.url = skin/Image_5D9AA77E_459F_9955_41C9_B3A8C2E88C28_es.png
+Image_5D9AA77E_459F_9955_41C9_B3A8C2E88C28_mobile.url = skin/Image_5D9AA77E_459F_9955_41C9_B3A8C2E88C28_mobile_es.png
+Image_5DB037E6_4599_9975_41B7_48260BD61B17.url = skin/Image_5DB037E6_4599_9975_41B7_48260BD61B17_es.png
+Image_5DB037E6_4599_9975_41B7_48260BD61B17_mobile.url = skin/Image_5DB037E6_4599_9975_41B7_48260BD61B17_mobile_es.png
+Image_5DB2BAC6_4598_8BB5_41C2_8CFB56D8B854.url = skin/Image_5DB2BAC6_4598_8BB5_41C2_8CFB56D8B854_es.png
+Image_5DB2BAC6_4598_8BB5_41C2_8CFB56D8B854_mobile.url = skin/Image_5DB2BAC6_4598_8BB5_41C2_8CFB56D8B854_mobile_es.png
+Image_5DB9181E_4599_B6D5_41CF_D2C65360C69A.url = skin/Image_5DB9181E_4599_B6D5_41CF_D2C65360C69A_es.png
+Image_5DB9181E_4599_B6D5_41CF_D2C65360C69A_mobile.url = skin/Image_5DB9181E_4599_B6D5_41CF_D2C65360C69A_mobile_es.png
+Image_5DE71705_4598_9AB6_41B9_07BBCFF94AE5.url = skin/Image_5DE71705_4598_9AB6_41B9_07BBCFF94AE5_es.png
+Image_5DE71705_4598_9AB6_41B9_07BBCFF94AE5_mobile.url = skin/Image_5DE71705_4598_9AB6_41B9_07BBCFF94AE5_mobile_es.png
+Image_5DEB63F5_4598_9956_41BD_429C78356378.url = skin/Image_5DEB63F5_4598_9956_41BD_429C78356378_es.png
+Image_5DEB63F5_4598_9956_41BD_429C78356378_mobile.url = skin/Image_5DEB63F5_4598_9956_41BD_429C78356378_mobile_es.png
+Image_5DF89DAE_4598_89F5_41C2_D608810396C7.url = skin/Image_5DF89DAE_4598_89F5_41C2_D608810396C7_es.png
+Image_5DF89DAE_4598_89F5_41C2_D608810396C7_mobile.url = skin/Image_5DF89DAE_4598_89F5_41C2_D608810396C7_mobile_es.png
+Image_656C8BB8_43F5_5A0E_41D0_24500B5AD9DD.url = skin/Image_656C8BB8_43F5_5A0E_41D0_24500B5AD9DD_es.png
+Image_656C8BB8_43F5_5A0E_41D0_24500B5AD9DD_mobile.url = skin/Image_656C8BB8_43F5_5A0E_41D0_24500B5AD9DD_mobile_es.png
+Image_69F8A32C_438D_CA06_41A6_D573BBB991DE.url = skin/Image_69F8A32C_438D_CA06_41A6_D573BBB991DE_es.png
+Image_69F8A32C_438D_CA06_41A6_D573BBB991DE_mobile.url = skin/Image_69F8A32C_438D_CA06_41A6_D573BBB991DE_mobile_es.png
+Image_6EB4A155_4395_4606_41A1_0C9E15D03A38.url = skin/Image_6EB4A155_4395_4606_41A1_0C9E15D03A38_es.png
+Image_6EB4A155_4395_4606_41A1_0C9E15D03A38_mobile.url = skin/Image_6EB4A155_4395_4606_41A1_0C9E15D03A38_mobile_es.png
+
+### Texto Multilínea
+HTMLText_43B3F5A0_548F_F589_41AE_498EC7F5F4FA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Gotham Medium';">Soft</SPAN></SPAN></DIV></div>
+HTMLText_208E4193_448C_C602_41C8_E3858AE39C52.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Gotham Medium';">Soft</SPAN></SPAN></DIV></div>
+HTMLText_43A22F29_548F_7698_41CF_0ACF43490537.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Gotham Medium';">Soft</SPAN></SPAN></DIV></div>
+HTMLText_43E44A01_548E_FE88_41D4_69157CE4A9EE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Gotham Medium';">Soft</SPAN></SPAN></DIV></div>
+HTMLText_43B7759F_548F_F5B7_41CA_D13862EC6AC2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Gotham Medium';">Urban</SPAN></SPAN></DIV></div>
+HTMLText_43A70F29_548F_7698_41B6_5826C62D05C6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Gotham Medium';">Urban</SPAN></SPAN></DIV></div>
+HTMLText_20546BD4_448C_BA05_41C3_8DE841DA5874.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Gotham Medium';">Urban</SPAN></SPAN></DIV></div>
+HTMLText_43E62A00_548E_FE88_41CD_B9BFDFD14206.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Gotham Medium';">Urban</SPAN></SPAN></DIV></div>
+HTMLText_63347866_43F7_4602_41B0_4A59AFF521C8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Gotham Thin';">Seleccione color</SPAN></SPAN></DIV></div>
+HTMLText_7F0CDF20_449D_5A3D_41B0_F27CA0C0469E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Gotham Thin';">Seleccione estilo</SPAN></SPAN></DIV></div>
+HTMLText_5B7831E7_43BB_C602_41CF_6E1E7AA1234F.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Gotham Thin';">Seleccione ambiente</SPAN></SPAN></DIV></div>
+HTMLText_43B3F5A0_548F_F589_41AE_498EC7F5F4FA_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:8px;font-family:'Gotham Medium';">Soft</SPAN></SPAN></DIV></div>
+HTMLText_43E44A01_548E_FE88_41D4_69157CE4A9EE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:8px;font-family:'Gotham Medium';">Soft</SPAN></SPAN></DIV></div>
+HTMLText_208E4193_448C_C602_41C8_E3858AE39C52_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:8px;font-family:'Gotham Medium';">Soft</SPAN></SPAN></DIV></div>
+HTMLText_43A22F29_548F_7698_41CF_0ACF43490537_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:8px;font-family:'Gotham Medium';">Soft</SPAN></SPAN></DIV></div>
+HTMLText_43A70F29_548F_7698_41B6_5826C62D05C6_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:8px;font-family:'Gotham Medium';">Urban</SPAN></SPAN></DIV></div>
+HTMLText_43E62A00_548E_FE88_41CD_B9BFDFD14206_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:8px;font-family:'Gotham Medium';">Urban</SPAN></SPAN></DIV></div>
+HTMLText_20546BD4_448C_BA05_41C3_8DE841DA5874_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:8px;font-family:'Gotham Medium';">Urban</SPAN></SPAN></DIV></div>
+HTMLText_43B7759F_548F_F5B7_41CA_D13862EC6AC2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:8px;font-family:'Gotham Medium';">Urban</SPAN></SPAN></DIV></div>
+HTMLText_63347866_43F7_4602_41B0_4A59AFF521C8_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:8px;font-family:'Gotham Thin';">Seleccione color</SPAN></SPAN></DIV></div>
+HTMLText_7F0CDF20_449D_5A3D_41B0_F27CA0C0469E_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:8px;font-family:'Gotham Thin';">Seleccione estilo</SPAN></SPAN></DIV></div>
+HTMLText_5B7831E7_43BB_C602_41CF_6E1E7AA1234F_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:8px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:8px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:8px;font-family:'Gotham Thin';">Seleccione ambiente</SPAN></SPAN></DIV></div>
+HTMLText_1E96318B_44BD_C602_41C7_3E19B65FE8B2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:35px;font-family:'Gotham Light';">Estilo Soft</SPAN></SPAN></DIV></div>
+HTMLText_191F987B_44BD_4602_41C8_BBD0D28A1CDF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:35px;font-family:'Gotham Light';">Estilo Urban</SPAN></SPAN></DIV></div>
+HTMLText_182D50A2_44B4_C602_41B2_60400B2DB24C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:59px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:59px;font-family:'Gotham Medium';">Paseo Virtual | Grupo Euro</SPAN></SPAN></DIV></div>
+HTMLText_1E96318B_44BD_C602_41C7_3E19B65FE8B2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:17.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:17.5px;font-family:'Gotham Light';">Estilo Soft</SPAN></SPAN></DIV></div>
+HTMLText_191F987B_44BD_4602_41C8_BBD0D28A1CDF_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:17.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:17.5px;font-family:'Gotham Light';">Estilo Urban</SPAN></SPAN></DIV></div>
+HTMLText_182D50A2_44B4_C602_41B2_60400B2DB24C_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:29.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:29.5px;font-family:'Gotham Medium';">Paseo Virtual | Grupo Euro</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = PaseoVirtual_Fitecma
